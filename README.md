@@ -19,7 +19,7 @@ O objetivo principal foi:
 
 O gráfico abaixo ilustra a evolução das acurácias ao longo das rodadas de busca de hiperparâmetros:
 
-![Gráfico de Evolução dos Scores]([caminho/para/o/seu/grafico.png](https://github.com/feduardomelo/Covertype/blob/main/Figure_1.png))
+![Gráfico de Evolução dos Scores](https://github.com/feduardomelo/Covertype/blob/main/Figure_1.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -41,13 +41,17 @@ O gráfico abaixo ilustra a evolução das acurácias ao longo das rodadas de bu
 1. Clone o repositório:
    ```bash
    git clone https://github.com/feduardomelo/projeto-covertype.git
+   
 2. Instale as dependências:
+   ```bash
+   pip install -r numpy sckit-learn matplotlib
+   
 
-  ```bash
-  pip install -r requirements.txt
+  ## 📖 Referências
+  - Dataset Covertype: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/covertype)
+  - Documentação Scikit-Learn: [scikit-learn.org](https://scikit-learn.org/)
+  
+  ## 📝 Licença
+  Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+  
 
-📖 Referências
-Dataset Covertype: UCI Machine Learning Repository
-Documentação Scikit-Learn: scikit-learn.org
-📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
