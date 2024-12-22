@@ -42,9 +42,10 @@ O gráfico abaixo ilustra a evolução das acurácias ao longo das rodadas de bu
    ```bash
    git clone https://github.com/feduardomelo/projeto-covertype.git
 Instale as dependências:
-bash
-Copiar código
-pip install -r requirements.txt
+
+  ```bash
+  pip install -r requirements.txt
+
 Execute os notebooks ou scripts disponíveis no diretório notebooks/.
 📖 Referências
 Dataset Covertype: UCI Machine Learning Repository
