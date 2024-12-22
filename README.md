@@ -19,7 +19,7 @@ O objetivo principal foi:
 
 O gráfico abaixo ilustra a evolução das acurácias ao longo das rodadas de busca de hiperparâmetros:
 
-![Gráfico de Evolução dos Scores](caminho/para/o/seu/grafico.png)
+![Gráfico de Evolução dos Scores]([caminho/para/o/seu/grafico.png](https://github.com/feduardomelo/Covertype/blob/main/Figure_1.png))
 
 ## 🛠️ Tecnologias Utilizadas
 
