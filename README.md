@@ -29,8 +29,6 @@ O gráfico abaixo ilustra a evolução das acurácias ao longo das rodadas de bu
   - Matplotlib
   - Numpy
 
-## 📂 Estrutura do Repositório
-├── dataset/ # Dataset Covertype ├── notebooks/ # Notebooks de análise e busca de hiperparâmetros ├── gráficos/ # Gráficos gerados durante o projeto ├── src/ # Código-fonte do projeto ├── README.md # Documentação do projeto
 
 ## 🧠 Aprendizado
 
@@ -42,7 +40,7 @@ O gráfico abaixo ilustra a evolução das acurácias ao longo das rodadas de bu
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto-covertype.git
+   git clone https://github.com/feduardomelo/projeto-covertype.git
 Instale as dependências:
 bash
 Copiar código
